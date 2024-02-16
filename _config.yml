@@ -1,0 +1,9 @@
+title: Website ni Mako^
+email: admin@makoantz.xyz
+description: >- # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://makoantz.xyz" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+theme: architect
